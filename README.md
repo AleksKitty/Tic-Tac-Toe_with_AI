@@ -21,3 +21,6 @@ Coordinates of the board:<br/>
 
 <br/>
 To exit, please, input "exit"
+
+
+
