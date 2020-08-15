@@ -14,9 +14,9 @@ Computer hard can't lose, it uses MiniMax algorithm.
 To start, please, input, for example, "start easy medium"
 
 Coordinates of the board:<br/>
-1 3     2 3    3 3   
-1 2     2 2    3 2   
-1 1     2 1    3 1   
+1 3&nbsp;&nbsp;2 3&nbsp;&nbsp;3 3   
+1 2&nbsp;&nbsp;2 2&nbsp;&nbsp;3 2   
+1 1&nbsp;&nbsp;2 1&nbsp;&nbsp;3 1   
 
 <br/>
 To exit, please, input "exit"
