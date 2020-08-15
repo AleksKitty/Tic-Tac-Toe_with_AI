@@ -9,9 +9,8 @@ There are four types of players:
 4) computer hard 
 
 Computer hard can't lose, it uses MiniMax algorithm.
-
-
-
+<br/>
+<br/>
 To start, please, input, for example, "start easy medium"
 
 Coordinates of the board:<br/>
@@ -19,5 +18,5 @@ Coordinates of the board:<br/>
 1 2     2 2    3 2   
 1 1     2 1    3 1   
 
-
+<br/>
 To exit, please, input "exit"
